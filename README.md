@@ -32,3 +32,7 @@ Everytime you run an npm build, Chrome will automatically reload the extension f
 ## Install Chrome Extension
 
 Alternatively, you can used my packed version of the Chrome extension available from the [releases folder](https://github.com/hassaanaliw/homely/releases/). This version will always reflect the state of the master branch of the repository.
+
+## Current ScreenShot
+
+![v0.0.1](https://raw.githubusercontent.com/hassaanaliw/homely/master/screens/v0.0.1.png)
